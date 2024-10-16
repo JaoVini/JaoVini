@@ -1,5 +1,5 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=3E8334&title_color=2D93F8&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=CD5B4C&title_color=2D93F8&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaoVini&layout=compact&theme=github_dark&hide_border=true&title_color=2D93F8&text_color=FFF)
 
 
