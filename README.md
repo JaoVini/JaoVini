@@ -1,5 +1,3 @@
-### Olá, Bem-Vindo(a) ao meu GitHub! 
-#### Me chamo João Vinícius e sou Desenvolvedor Web com foco nas linguagens de progamação <b>JavaScript</b>, <b>TypeScript</b> e <b>PHP</b>. <br> Possuo imenso interesse na área de Redes de Computadores. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=1861EB&title_color=025CDA&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaoVini&layout=compact&theme=github_dark&hide_border=true&title_color=025CDA&text_color=FFF)
