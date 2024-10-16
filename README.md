@@ -1,14 +1,17 @@
-<div align="center">
-
+### _Olá, bem-vindo ao meu GitHub! Meu nome é João Vinícius. Possuo imenso interesse nas áreas de Redes de Computadores e Desenvolvimento Web. Ideias inovadoras podem ser transformadas em linhas de código, e linhas de código podem transformar o mundo!_ ✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=1861EB&title_color=025CDA&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaoVini&layout=compact&theme=github_dark&hide_border=true&title_color=025CDA&text_color=FFF)
 
 
+
+Linguagens | Bibliotecas & Frameworks | SGBDs | Ferramentas
+:-:|:-:|:-:|:-:
+<img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> | <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> | <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> | <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> <img width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />  <img width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" />
+
+<div align="left">
   
 Social Media | 
 :-:
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=0D1117)](https://t.me/+5584994017617) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0073AF&color=0D1117)](https://www.linkedin.com/in/joavincus) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=535FEE&color=0D1117)](https://discord.com/channels/@joavincus/)
-
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=0D1117)](https://t.me/+5584994017617) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0073AF&color=0D1117)](https://www.linkedin.com/in/jaovini200e3) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=535FEE&color=0D1117)](https://discord.com/channels/@joavincus/)
 </div>
-
