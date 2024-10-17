@@ -1,3 +1,5 @@
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -16,3 +18,5 @@ Linguagens | Bibliotecas & Frameworks | SGBDs | Ferramentas
 Social Media | 
 :-:
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2D93F8&color=0D1117)](https://t.me/+5584994017617) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=2D93F8&color=0D1117)](https://www.linkedin.com/in/jaovini200e3) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=2D93F8&color=0D1117)](https://discord.com/channels/@joavincus/)
+
+</div>
