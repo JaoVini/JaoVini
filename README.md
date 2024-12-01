@@ -1,5 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaoVini&theme=github_dark&hide_border=true&show_icons=true&icon_color=DADADA&title_color=A2C3E1&text_color=FFF)
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaoVini&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
           
 
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=7277AD) ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=3772A1) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=EFD81C) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
